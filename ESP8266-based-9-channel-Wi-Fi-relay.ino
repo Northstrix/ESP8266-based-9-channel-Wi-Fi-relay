@@ -1,6 +1,6 @@
 // ESP8266-based 9 channel Wi-Fi relay
 // Developed by Maxim Bortnikov
-// For more information visit: https://github.com/Northstrix/ESP8266-based-9-channel-Wi-Fi-relay
+// For more information and for the circuit of this device visit: https://github.com/Northstrix/ESP8266-based-9-channel-Wi-Fi-relay
 #include <ESP8266WiFi.h> 
 const char* ssid     = "Blackberry";  // Your SSID (Network's name)
 const char* password = "seasidehills99"; // Password from your network
