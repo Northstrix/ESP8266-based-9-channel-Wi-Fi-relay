@@ -10,7 +10,7 @@ To build this device you need:
 
 Note: If you're using 5 volts power supply then you have to put "+" of your power supply to pin Vin.
 If you're using 3.3 volts power supply then you have to put "+" of your power supply to pin 3V3.
-In both cases you have to put "-" of your power supply to pin GND.
+In both cases you have to put "-" of your power supply to pin GND.<br>
 <br>
 The state of each channel is individually controlled and completely independent from one another.<br>
 <br>
