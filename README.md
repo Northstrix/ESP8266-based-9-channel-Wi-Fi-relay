@@ -8,9 +8,9 @@ To build this device you need:
 3) Twelve relays
 4) Power source(s) that can provide 12 volts and enough current for relays as well as supply ESP8266 (3.3V or 5V)
 
-Note: If you're using 5 volts power supply then you have to put "+" of your power supply to pin Vin.
-If you're using 3.3 volts power supply then you have to put "+" of your power supply to pin 3V3.
-In both cases you have to put "-" of your power supply to pin GND.<br>
+Note: If you're using 5 volts power supply then you should put "+" of your power supply to the "Vin" pin.<br>
+If you're using 3.3 volts power supply then put "+" of your power supply to the "3V3" pin.<br>
+In both cases you have to put "-" of your power supply to the "GND" pin.<br>
 <br>
 The state of each channel is individually controlled and completely independent from one another.<br>
 <br>
