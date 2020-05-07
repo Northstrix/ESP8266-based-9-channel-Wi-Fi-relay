@@ -5,7 +5,7 @@ You can find the code and a circuit of this device here:  https://github.com/Nor
 To build this device you need:
 1) One ESP8266
 2) Two ULN2003
-3) Twelve relays
+3) Nine relays
 4) Power source(s) that can provide 12 volts and enough current for relays as well as supply ESP8266 (3.3V or 5V)
 
 Note: If you're using 5 volts power supply then you should put "+" of your power supply to the "Vin" pin.<br>
